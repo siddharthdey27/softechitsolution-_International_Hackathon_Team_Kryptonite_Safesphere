@@ -93,3 +93,9 @@ Thumbs.db
 *.njsproj
 *.sln
 *.swp
+
+# Demo data - do not push
+demo_data/
+**/demo*.csv
+**/hdfc_*.csv
+**/sbi_*.csv
